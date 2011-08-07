@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>com.github.tranchis.wire</groupId>
-  <artifactId>metamodel.utils</artifactId>
+  <artifactId>eventbus</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20110807.205136</timestamp>
-      <buildNumber>3</buildNumber>
+      <timestamp>20110807.205244</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
-    <lastUpdated>20110807205136</lastUpdated>
+    <lastUpdated>20110807205244</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.1-20110807.205136-3</value>
-        <updated>20110807205136</updated>
+        <value>0.0.1-20110807.205244-2</value>
+        <updated>20110807205244</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.1-20110807.205136-3</value>
-        <updated>20110807205136</updated>
+        <value>0.0.1-20110807.205244-2</value>
+        <updated>20110807205244</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
