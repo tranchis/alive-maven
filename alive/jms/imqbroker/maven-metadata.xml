@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>net.sf.ictalive</groupId>
-  <artifactId>operetta</artifactId>
+  <groupId>alive.jms</groupId>
+  <artifactId>imqbroker</artifactId>
   <versioning>
     <release>1.0.0</release>
     <versions>
       <version>1.0.0</version>
     </versions>
-    <lastUpdated>20110807230633</lastUpdated>
+    <lastUpdated>20110807230735</lastUpdated>
   </versioning>
 </metadata>
