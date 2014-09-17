@@ -1,0 +1,14 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Sep 16 19:34:40 CEST 2014
+http\://maven.eclipse.org/nexus/content/repositories/testing/.error=Could not transfer artifact org.eclipse.osgi\:org.eclipse.osgi\:pom\:3.6.2 from/to eclipse-testing (http\://maven.eclipse.org/nexus/content/repositories/testing/)\: connection timed out to http\://maven.eclipse.org/nexus/content/repositories/testing/org/eclipse/osgi/org.eclipse.osgi/3.6.2/org.eclipse.osgi-3.6.2.pom
+https\://developers.superhub-project.eu/artifactory/sh/.lastUpdated=1410888869319
+http\://tranchis.github.com/alive-maven/.lastUpdated=1410888880303
+http\://build.clojure.org/releases/.error=
+https\://developers.superhub-project.eu/artifactory/sh/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1410888880426
+http\://clojars.org/repo/.lastUpdated=1410888879894
+http\://tranchis.github.com/alive-maven/.error=
+http\://repo.maven.apache.org/maven2/.error=
+http\://build.clojure.org/releases/.lastUpdated=1410888879633
+default-http\://maven.eclipse.org/nexus/content/repositories/testing/.lastUpdated=1410888879345
+http\://clojars.org/repo/.error=

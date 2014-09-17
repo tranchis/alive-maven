@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd" xsi:noNamespaceSchemaLocation="http://maven.apache.org/POM/4.0.0">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <artifactId>org.eclipse.eclipse</artifactId>
+    <groupId>org.eclipse</groupId>
+    <version>3.6.0.v20100505</version>
+  </parent>
+  <groupId>org.eclipse.equinox</groupId>
+  <artifactId>org.eclipse.equinox.registry</artifactId>
+  <version>3.5.0.v20100503</version>
+  <description>Extension Registry Support</description>
+  <!-- See https://issues.sonatype.org/browse/OSSRH-739 -->
+  <dependencies>
+    <dependency>
+      <groupId>org.eclipse.core</groupId>
+      <artifactId>org.eclipse.core.jobs</artifactId>
+      <version>3.5.0.v20100515</version>
+    </dependency>
+    <!--dependency>
+      <groupId>org.eclipse.equinox</groupId>
+      <artifactId>org.eclipse.equinox.common</artifactId>
+      <version>3.6.0.v20100503</version>
+    </dependency>
+    <dependency>
+      <groupId>org.eclipse.osgi</groupId>
+      <artifactId>org.eclipse.osgi</artifactId>
+      <version>3.6.0.v20100517</version>
+    </dependency-->
+  </dependencies>
+</project>
